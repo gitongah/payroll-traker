@@ -33,7 +33,7 @@ const displayAverageSalary = function(employeesArray) {
 
   const averageSalary= totalSalary / employeesArray.length;
 
-  console.log(`The average salary is for the employee ${averageSalary}`);
+  console.log(`The average salary is for the employee ${averageSalary.toFixed(2)}`);
 
 }
 
@@ -42,7 +42,7 @@ const getRandomEmployee = function(employeesArray) {
   // TODO: Select and display a random employee
   let randEmployee=Math.floor( Math.random() * employeesArray.length)
   employeesArray[randEmployee]
-  console.log(`the winner for the random selection is ${employeesArray[randEmployee].firstName}`)
+  console.log(`The winner for the random selection is ${employeesArray[randEmployee].firstName} and the salary is $ ${employeesArray[randEmployee].salary}`)
 
 
 }
