@@ -4,7 +4,7 @@ This is a payroll tracker that helps the manager keep track and budget for the c
 ## The live link to the web applicatioin.
 Live link - https://gitongah.github.io/payroll-traker/
 
-##Screenshot of the application.
+## Screenshot of the application.
 <img width="1436" alt="image" src="https://github.com/gitongah/payroll-traker/assets/39062444/2c8b62f1-1036-46ea-b30a-d688b229d32e">
 <img width="1436" alt="image" src="https://github.com/gitongah/payroll-traker/assets/39062444/d4adb073-dc1f-430c-9187-bc0c1b82a244">
 <img width="1436" alt="image" src="https://github.com/gitongah/payroll-traker/assets/39062444/70d8744f-1761-4b2a-b30b-e832cf111409">
